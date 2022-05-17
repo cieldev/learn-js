@@ -28,4 +28,29 @@ number
 文字列型はstring型とも呼ばれます。  
 コードを書いて表示してみましょう。
 
+```js
+var string_a = "Hello"
+
+console.log(typeof(string_a))
+```
+
+以下の結果になるはずです。
+
+```txt
+string
+```
+
+## ブール
+
+ブールは真偽型やboolean型とも呼ばれます。  
+コードを書いて表示してみましょう。  
+
+```js
+var num_a = 1
+var num_b = 10
+
+var bool01;
+bool01 = (num_a < num_b)
+
+console.log(bool01)
 ```
