@@ -42,5 +42,5 @@ console.log(num2)
 また大文字小文字は区別されます。  
 予約語(return, class, for, whileなど)は変数名にできません。  
 
-[前のセクション(ランタイム)に戻る](./1-runtime.md)  
-[次のセクション(データ型)に進む](./3-data-by-type.md)
+[前のセクション(ランタイム)に戻る](./01-runtime.md)  
+[次のセクション(データ型)に進む](./03-data-by-type.md)

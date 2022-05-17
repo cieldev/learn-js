@@ -52,5 +52,14 @@ var num_b = 10
 var bool01;
 bool01 = (num_a < num_b)
 
-console.log(bool01)
+console.log(typeof(bool01))
 ```
+
+以下の結果になるはずです。
+
+```txt
+boolean
+```
+
+[前のセクション(変数)に戻る](./02-variant.md)  
+[次のセクション(配列)に進む](./04-array.md)
