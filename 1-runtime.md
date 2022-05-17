@@ -10,7 +10,7 @@ console.log("Good evening");
 
 上のコードを実行して、下のように出力されるか確認してみてください。
 
-```json
+```txt
 Good Morning
 Good Afternoon
 Good evening
